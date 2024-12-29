@@ -23,7 +23,7 @@ Com formação em Engenharia Mecânica e experiência em manutenção industrial
 ## Bootcamp de Dados (Ciência de Dados pela Triple Ten)
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Bootcamp%20Dados.png)
 
-- Pós-graduação em Estatística Aplicada
+## Pós-graduação em Estatística Aplicada
 
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Pos%20Gradua%C3%A7%C3%A3o%20estatistica%20aplicada.png)
 
