@@ -20,6 +20,13 @@ Com formação em Engenharia Mecânica e experiência em manutenção industrial
 
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/dp-100.png)
 
+
+Verificação:
+```bash
+      https://www.coursera.org/account/accomplishments/verify/061V3PV8OGCO
+```
+
+
 ## Bootcamp de Dados (Ciência de Dados pela Triple Ten)
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Bootcamp%20Dados.png)
 
