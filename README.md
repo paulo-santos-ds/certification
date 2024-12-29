@@ -13,25 +13,34 @@ Com formação em Engenharia Mecânica e experiência em manutenção industrial
 - PL-300: Microsoft Power BI Data Analyst
 
 ## AI-900: Microsoft Azure AI Fundamentals
-
+Verificação:
+```bash
+https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
+```
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/AI-900.png)
 
+
 ## DP-100: Designing and Implementing a Data Science Solution on Azure
-
-![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/dp-100.png)
-
-
 Verificação:
 ```bash
 https://www.coursera.org/account/accomplishments/verify/061V3PV8OGCO
 ```
+![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/dp-100.png)
 
 
 ## Bootcamp de Dados (Ciência de Dados pela Triple Ten)
-![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Bootcamp%20Dados.png)
+Verificação:
+```bash
+https://tripleten.com/home/data-scientist/
+```
+![image](https://github.com/paulo-santos-ds/certification/blob/maind/imagem%20certificados/Bootcamp%20Dados.png)
+
 
 ## Pós-graduação em Estatística Aplicada
-
+Verificação:
+```bash
+https://faculdadefocus.com.br/
+```
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Pos%20Gradua%C3%A7%C3%A3o%20estatistica%20aplicada.png)
 
 ## Habilidades Técnicas:
