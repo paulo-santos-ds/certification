@@ -13,10 +13,7 @@ Com formação em Engenharia Mecânica e experiência em manutenção industrial
 - PL-300: Microsoft Power BI Data Analyst
 
 ## AI-900: Microsoft Azure AI Fundamentals
-Verificação:
-```bash
-https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
-```
+Verificação: ```bash https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification```
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/AI-900.png)
 
 
