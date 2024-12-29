@@ -33,8 +33,7 @@ Verificação:
 ```bash
 https://tripleten.com/home/data-scientist/
 ```
-![image](https://github.com/paulo-santos-ds/certification/blob/maind/imagem%20certificados/Bootcamp%20Dados.png)
-
+![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Bootcamp%20Dados.png)
 
 ## Pós-graduação em Estatística Aplicada
 Verificação:
@@ -61,3 +60,6 @@ https://faculdadefocus.com.br/
 Sou um profissional comprometido, com facilidade para me relacionar em diversos níveis hierárquicos e focado na
 excelência da entrega de resultados. Vamos trocar ideias sobre como a Ciência de Dados pode transformar a forma como trabalhamos?
 
+
+
+[def]: https://github.com/paulo-santos-ds/certification/blob/maind/imagem%20certificados/Bootcamp%20Dados.png
