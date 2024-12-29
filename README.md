@@ -8,21 +8,21 @@ Reconhecendo a importância da linguagem SQL para a área de Data Science, dediq
 Com formação em Engenharia Mecânica e experiência em manutenção industrial e liderança de equipes, também possuo vivência em eletrônica, com manutenção de computadores em segmentos variados, como serviços financeiros, órgãos públicos, varejo, construção civil, saúde, tecnologia e educação.
 
 ## Certificações:
-AI-900: Microsoft Azure AI Fundamentals
-DP-100: Designing and Implementing a Data Science Solution on Azure
-PL-300: Microsoft Power BI Data Analyst
-Md-102: Microsoft 365 Certified: Endpoint Administrator Associate
-Bootcamp de Dados (Ciência de Dados pela Triple Ten)
-Pós-graduação em Estatística Aplicada
+- AI-900: Microsoft Azure AI Fundamentals
+- DP-100: Designing and Implementing a Data Science Solution on Azure
+- PL-300: Microsoft Power BI Data Analyst
+- MD-102: Microsoft 365 Certified: Endpoint Administrator Associate
+- Bootcamp de Dados (Ciência de Dados pela Triple Ten)
+- Pós-graduação em Estatística Aplicada
 
 ## Habilidades Técnicas:
-Python, SQL
-Análises Estatísticas e Machine Learning
-Extração, Tratamento e Limpeza de Dados
-Criação de Dashboards de KPIs (Power BI, Tableau, Qlik Sense, Looker)
-Automação de Processos
-Compreensão e Implementação de Regras de Negócios
-Gestão de Processos
+- Python, SQL
+- Análises Estatísticas e Machine Learning
+- Extração, Tratamento e Limpeza de Dados
+- Criação de Dashboards de KPIs (Power BI, Tableau, Qlik Sense, Looker)
+- Automação de Processos
+- Compreensão e Implementação de Regras de Negócios
+- Gestão de Processos
 
 ## Habilidades Não Técnicas:
 - Comunicação Interpessoal
