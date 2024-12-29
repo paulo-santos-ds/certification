@@ -8,12 +8,24 @@ Reconhecendo a importância da linguagem SQL para a área de Data Science, dediq
 Com formação em Engenharia Mecânica e experiência em manutenção industrial e liderança de equipes, também possuo vivência em eletrônica, com manutenção de computadores em segmentos variados, como serviços financeiros, órgãos públicos, varejo, construção civil, saúde, tecnologia e educação.
 
 ## Certificações:
-- AI-900: Microsoft Azure AI Fundamentals
-- DP-100: Designing and Implementing a Data Science Solution on Azure
-- PL-300: Microsoft Power BI Data Analyst
+
 - MD-102: Microsoft 365 Certified: Endpoint Administrator Associate
+- PL-300: Microsoft Power BI Data Analyst
+
+- AI-900: Microsoft Azure AI Fundamentals
+
+![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/AI-900.png)
+
+- DP-100: Designing and Implementing a Data Science Solution on Azure
+
+![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/dp-100.png)
+
 - Bootcamp de Dados (Ciência de Dados pela Triple Ten)
+![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Bootcamp%20Dados.png)
+
 - Pós-graduação em Estatística Aplicada
+
+![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Pos%20Gradua%C3%A7%C3%A3o%20estatistica%20aplicada.png)
 
 ## Habilidades Técnicas:
 - Python, SQL
