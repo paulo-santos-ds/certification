@@ -23,7 +23,7 @@ Com formação em Engenharia Mecânica e experiência em manutenção industrial
 
 Verificação:
 ```bash
-      https://www.coursera.org/account/accomplishments/verify/061V3PV8OGCO
+https://www.coursera.org/account/accomplishments/verify/061V3PV8OGCO
 ```
 
 
