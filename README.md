@@ -41,7 +41,7 @@ https://tripleten.com/home/data-scientist/
 ## Pós-graduação em Estatística Aplicada
 Verificação:
 ```bash
-https://faculdadefocus.com.br/
+https://faculdadefocus.com.br/certificado/validar
 ```
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/Pos%20Gradua%C3%A7%C3%A3o%20estatistica%20aplicada.png)
 
