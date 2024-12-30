@@ -3,7 +3,7 @@
 
 Sou pós-graduado em Estatística Aplicada e especializado em Ciências de Dados pela Triple Ten, com experiência prática e teórica na área de Análise e Ciências de Dados desde o final de 2021. Durante este período, desenvolvi forte expertise em bibliotecas de programação como Pandas, Numpy, TensorFlow, PySpark e Spark, além de possuir proficiência em Python, SQL e Power BI, com Inglês e Espanhol avançados.
 
-Reconhecendo a importância da linguagem SQL para a área de Data Science, dediquei-me ao aprendizado de diversos bancos de dados, incluindo SQLite, MariaDB, MongoDB e SQL Server. Essa base me permitiu criar dashboards de Business Intelligence (BI) impactantes, utilizando Power BI, Tableau e Qlik Sense, com gráficos dinâmicos e modelos de visualização para facilitar a compreensão de dados complexos.
+Reconhecendo a importância da linguagem SQL para a área de Data Science, dediquei-me ao aprendizado de diversos bancos de dados, incluindo SQLite e SQL Server. Essa base me permitiu criar dashboards de Business Intelligence (BI) impactantes, utilizando Power BI, Tableau e Qlik Sense, com gráficos dinâmicos e modelos de visualização para facilitar a compreensão de dados complexos.
 
 Com formação em Engenharia Mecânica e experiência em manutenção industrial e liderança de equipes, também possuo vivência em eletrônica, com manutenção de computadores em segmentos variados, como serviços financeiros, órgãos públicos, varejo, construção civil, saúde, tecnologia e educação.
 
