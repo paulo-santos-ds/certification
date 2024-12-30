@@ -29,7 +29,6 @@ https://www.coursera.org/account/accomplishments/verify/061V3PV8OGCO
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/dp-100.png)
 
 
-
 ## Bootcamp de Dados (Ciência de Dados pela Triple Ten)
 Verificação:
 ```bash
