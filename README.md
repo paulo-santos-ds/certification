@@ -21,7 +21,6 @@ https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamenta
 ![image](https://github.com/paulo-santos-ds/certification/blob/main/imagem%20certificados/AI-900.png)
 
 
-
 ## DP-100: Designing and Implementing a Data Science Solution on Azure
 Verificação:
 ```bash
