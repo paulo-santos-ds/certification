@@ -9,7 +9,6 @@ Com formação em Engenharia Mecânica e experiência em manutenção industrial
 
 ## Certificações:
 
-
 - MD-102: Microsoft 365 Certified: Endpoint Administrator Associate
 - PL-300: Microsoft Power BI Data Analyst
 
